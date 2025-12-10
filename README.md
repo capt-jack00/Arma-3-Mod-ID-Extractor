@@ -1,4 +1,6 @@
 # WARNING: The program is unmaintained and doesn't work anymore. I'm working on a better version. 
+# Updated version: https://github.com/capt-jack00/ArmaModIdExtractor-v.2
+---
 ### Arma 3 Mod ID Extractor
 Arma 3 Mod ID Extractor is used for making a .txt file with all the ID's from mod's list
 
